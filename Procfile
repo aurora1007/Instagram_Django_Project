@@ -1,0 +1,1 @@
+web: gunicorn InstaSX.wsgi --log-file -
